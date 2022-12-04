@@ -21,6 +21,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.vite.config.ts
 src/vite-env.d.ts
 vite.config.ts
+
