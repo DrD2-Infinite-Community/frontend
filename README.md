@@ -1,7 +1,5 @@
 # Front-end
 
-> Documentação em desenvolvimento...
->#### Aqui estará algumas informações sobre nosso repositório.
 Antemão ressalto que estaremos utilizando o Eslint, Prettier e o EditorConfig. 
 As referências de suas respectivas extensões e outras recomendadas estão no arquivo `extensions.json` na pasta `.vscode`.
 
