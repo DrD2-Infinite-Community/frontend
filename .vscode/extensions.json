@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "ms-vscode.vscode-typescript-next",
+      "EditorConfig.EditorConfig",
+      "christian-kohler.npm-intellisense",
+      "streetsidesoftware.code-spell-checker",
+      "eamodio.gitlens"
+    ]
+  }
